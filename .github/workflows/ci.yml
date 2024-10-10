@@ -28,7 +28,7 @@ jobs:
       # Install Solana CLI tools
       - name: Install Solana CLI
         run: |
-          sh -c "$(curl -sSfL https://release.solana.com/v1.18.24/install)"
+          sh -c "$(curl -sSfL https://release.solana.com/install)"
 
       # Install Anchor CLI
       - name: Install Anchor
