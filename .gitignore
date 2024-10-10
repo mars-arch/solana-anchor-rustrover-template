@@ -1,0 +1,8 @@
+
+.anchor
+.DS_Store
+solana-anchor-rustrover-template/target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn

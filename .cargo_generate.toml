@@ -1,0 +1,8 @@
+[template]
+description = "A Solana Anchor project template optimized for IntelliJ RustRover"
+version = "0.1.0"
+repository = "https://github.com/mars-arch/solana-anchor-rustrover-template"
+
+[placeholders]
+project-name = { type = "string", prompt = "Enter the project name" }
+authors = { type = "string", prompt = "Enter the author name(s)" }

@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Anchor Build" type="CargoCommandRunConfiguration" factoryName="Cargo Command" folderName="AnchorBuild" command="build">
+        <option name="command" value="anchor build" />
+        <option name="name" value="Anchor Build" />
+        <option name="workingDirectory" value="$PROJECT_DIR$" />
+    </configuration>
+</component>

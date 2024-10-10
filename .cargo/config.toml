@@ -1,0 +1,13 @@
+[build]
+target = "x86_64-unknown-linux-gnu"
+
+[term]
+verbose = true
+
+[target.x86_64-unknown-linux-gnu]
+rustflags = ["-C", "target-cpu=native", "-C", "opt-level=3"]
+
+[profile.release]
+debug = true
+lto = true
+opt-level = "z"

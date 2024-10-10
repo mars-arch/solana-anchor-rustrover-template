@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Run with Env" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+        <envs>
+            <env name="ANCHOR_PROVIDER_URL" value="http://localhost:8899" />
+            <env name="ANCHOR_WALLET" value="$HOME/.config/solana/id.json" />
+        </envs>
+        <option name="command" value="build" />
+        <option name="workingDirectory" value="$PROJECT_DIR$" />
+    </configuration>
+</component>

@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Anchor Deploy" type="CargoCommandRunConfiguration" factoryName="Cargo Command" folderName="AnchorDeploy" command="deploy">
+        <option name="command" value="anchor deploy" />
+        <option name="name" value="Anchor Deploy" />
+        <option name="workingDirectory" value="$PROJECT_DIR$" />
+    </configuration>
+</component>
